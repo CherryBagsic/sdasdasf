@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(224, 255, 255);
+}
+
+h1 {
+   background-color: lightblue;
+   font-family: Arial;
+   color: black;
+}
+
+h2 {
+   background-color: lightblue;
+   font-family: Arial;
+   color:black;
+}
+
+li {
+   font-family: Arial;
+   color: black;
+}
